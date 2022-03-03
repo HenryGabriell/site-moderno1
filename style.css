@@ -46,7 +46,7 @@ ul li a{
     border-radius: 7px;
     border: none;
     padding: 10px 25px;
-    background-color: #4caf50;
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
     color: #fff;
     font-size: 15px;
     cursor: pointer;
@@ -56,11 +56,14 @@ h1{
     padding-top: 20px;
     padding-left: 200px;
     font-size: 60px;
+    font-weight: 100;
+    color: #232d60;
 }
 
 p{
     padding-left: 200px;
     padding-top: 10px;
+    color: #6a7199;
 }
 .img1{
     height: 90%;

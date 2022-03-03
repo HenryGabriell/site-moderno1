@@ -62,6 +62,12 @@ p{
     padding-left: 200px;
     padding-top: 10px;
 }
+.img1{
+    height: 90%;
+    position: absolute;
+    bottom: 0;
+    right: 80px;
+}
 
 #backarrow{
     width: 40px;

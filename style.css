@@ -22,12 +22,12 @@ body{
 ul li{
     display:inline-block;
     padding: 20px;
-    
+    padding-right: 90px;
 }
 
 ul li a{
     text-decoration: none;
-    color: black;
+    color:#232d60;
 }
 
 a:hover{

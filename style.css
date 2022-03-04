@@ -30,6 +30,14 @@ ul li a{
     color: black;
 }
 
+a:hover{
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+    color: rgb(229, 238, 245);
+    border-radius: 6px;
+    padding: 7px;
+    transition: 300ms;
+}
+
 .imgl{
     width: 13%;
     padding-left: 20px;
